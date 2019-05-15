@@ -1,3 +1,4 @@
+"""type: SofaContent """
 import os
 from splib.objectmodel import SofaObject, SofaPrefab
 from splib.animation import animate
